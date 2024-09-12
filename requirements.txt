@@ -1,0 +1,4 @@
+asgiref==3.8.1
+Django==5.1.1
+django-userlog @ file:///home/tanvir/DEV/Pypi/Django-log/django-userlog
+sqlparse==0.5.1
